@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\TelefonMarket\TelefonMarket\bin\Debug\TelefonMarket.exe.config
+C:\Users\LENOVO\source\repos\TelefonMarket\TelefonMarket\bin\Debug\TelefonMarket.exe
+C:\Users\LENOVO\source\repos\TelefonMarket\TelefonMarket\bin\Debug\TelefonMarket.pdb
+C:\Users\LENOVO\source\repos\TelefonMarket\TelefonMarket\bin\Debug\TelefonMarketStorage.dll
+C:\Users\LENOVO\source\repos\TelefonMarket\TelefonMarket\bin\Debug\TelefonMarketStorage.pdb
+C:\Users\LENOVO\source\repos\TelefonMarket\TelefonMarket\obj\Debug\TelefonMarket.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\TelefonMarket\TelefonMarket\obj\Debug\TelefonMarket.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\TelefonMarket\TelefonMarket\obj\Debug\TelefonMarket.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\TelefonMarket\TelefonMarket\obj\Debug\TelefonMarket.exe
+C:\Users\LENOVO\source\repos\TelefonMarket\TelefonMarket\obj\Debug\TelefonMarket.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34902.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelefonMarket", "TelefonMarket\TelefonMarket.csproj", "{DC27A084-B445-4E04-B1DE-AD44BBF1557B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelefonMarketStorage", "TelefonMarketStorage\TelefonMarketStorage.csproj", "{0FACFB62-0B99-48B4-981D-9D71E4AFE76E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC27A084-B445-4E04-B1DE-AD44BBF1557B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC27A084-B445-4E04-B1DE-AD44BBF1557B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC27A084-B445-4E04-B1DE-AD44BBF1557B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC27A084-B445-4E04-B1DE-AD44BBF1557B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FACFB62-0B99-48B4-981D-9D71E4AFE76E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FACFB62-0B99-48B4-981D-9D71E4AFE76E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FACFB62-0B99-48B4-981D-9D71E4AFE76E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FACFB62-0B99-48B4-981D-9D71E4AFE76E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {454D1FE7-B0FF-4AC1-BADC-A5BB54EAE80E}
+	EndGlobalSection
+EndGlobal
