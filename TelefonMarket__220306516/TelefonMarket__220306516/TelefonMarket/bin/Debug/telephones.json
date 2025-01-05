@@ -1,0 +1,12 @@
+{
+  "$type": "System.Collections.Generic.List`1[[TelefonMarketStorage.ITelephone, TelefonMarketStorage]], mscorlib",
+  "$values": [
+    {
+      "$type": "TelefonMarketStorage.Smartphone, TelefonMarketStorage",
+      "OperatingSystem": "654",
+      "Brand": "123",
+      "Model": "321",
+      "Price": 456.0
+    }
+  ]
+}

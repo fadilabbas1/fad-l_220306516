@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\TelefonMarket\TelefonMarketStorage\bin\Debug\TelefonMarketStorage.dll
+C:\Users\LENOVO\source\repos\TelefonMarket\TelefonMarketStorage\bin\Debug\TelefonMarketStorage.pdb
+C:\Users\LENOVO\source\repos\TelefonMarket\TelefonMarketStorage\obj\Debug\TelefonMarketStorage.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\TelefonMarket\TelefonMarketStorage\obj\Debug\TelefonMarketStorage.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\TelefonMarket\TelefonMarketStorage\obj\Debug\TelefonMarketStorage.dll
+C:\Users\LENOVO\source\repos\TelefonMarket\TelefonMarketStorage\obj\Debug\TelefonMarketStorage.pdb
+C:\Users\ahmad\Desktop\TelefonMarket__220306516\TelefonMarketStorage\bin\Debug\TelefonMarketStorage.dll
+C:\Users\ahmad\Desktop\TelefonMarket__220306516\TelefonMarketStorage\bin\Debug\TelefonMarketStorage.pdb
+C:\Users\ahmad\Desktop\TelefonMarket__220306516\TelefonMarketStorage\obj\Debug\TelefonMarketStorage.csproj.AssemblyReference.cache
+C:\Users\ahmad\Desktop\TelefonMarket__220306516\TelefonMarketStorage\obj\Debug\TelefonMarketStorage.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\Desktop\TelefonMarket__220306516\TelefonMarketStorage\obj\Debug\TelefonMarketStorage.dll
+C:\Users\ahmad\Desktop\TelefonMarket__220306516\TelefonMarketStorage\obj\Debug\TelefonMarketStorage.pdb
+C:\Users\ahmad\Desktop\TelefonMarket__220306516\TelefonMarketStorage\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ahmad\Desktop\TelefonMarket__220306516\TelefonMarketStorage\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ahmad\Desktop\TelefonMarket__220306516\TelefonMarketStorage\obj\Debug\TelefonMarketStorage.csproj.CopyComplete
